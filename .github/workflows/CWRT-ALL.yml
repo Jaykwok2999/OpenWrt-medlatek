@@ -49,7 +49,7 @@ jobs:
       fail-fast: false
       max-parallel: 4
       matrix:
-        CONFIG: [MT7981]
+        CONFIG: [MT7981, MT7986]
         REPO_INFO:
           - {SOURCE: zijieKwok/immortalwrt-mt798x-24.10, BRANCH: openwrt-24.10}
 
