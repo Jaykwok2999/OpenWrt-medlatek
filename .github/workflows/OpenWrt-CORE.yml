@@ -242,9 +242,9 @@ jobs:
             🌳 源码分支：${{env.WRT_BRANCH}}
             🚀 内核版本：${{env.WRT_KVER}}
             💻 平台架构：${{env.WRT_TARGET}}
-            💻 配置：${{env.WRT_CONFIG}}
+            🛄 配置：${{env.WRT_CONFIG}}
             🌐 默认地址：${{env.WRT_IP}}
             🔒 默认密码：${{env.WRT_PW}}
 
-            📡 WIFI名称：${{env.WRT_SSID}}
-            🔒 WIFI密码：${{env.WRT_WORD}}
+            🛜 WIFI名称：${{env.WRT_SSID}}
+            🛅 WIFI密码：${{env.WRT_WORD}}
