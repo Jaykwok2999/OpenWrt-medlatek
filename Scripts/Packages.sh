@@ -62,7 +62,7 @@ UPDATE_PACKAGE "alist" "sbwml/luci-app-alist" "main"
 UPDATE_PACKAGE "mosdns" "sbwml/luci-app-mosdns" "v5"
 
 # UPDATE_PACKAGE "luci-app-onliner" "Jaykwok2999/istoreos-ipk" "main" "pkg"
-UPDATE_PACKAGE "linkease" "Jaykwok2999/quickstart" "main"
+# UPDATE_PACKAGE "linkease" "Jaykwok2999/quickstart" "main"
 # UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
 UPDATE_PACKAGE "lazyoop" "lazyoop/networking-artifact" "main"
