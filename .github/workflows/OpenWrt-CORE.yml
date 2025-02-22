@@ -244,7 +244,7 @@ jobs:
             💻 平台架构：${{env.WRT_TARGET}}
             🛄 配置：${{env.WRT_CONFIG}}
             🌐 默认地址：${{env.WRT_IP}}
-            🔒 默认密码：${{env.WRT_PW}}
+            🔒 默认密码：password
 
             🛜 WIFI名称：${{env.WRT_SSID}}
             🛅 WIFI密码：${{env.WRT_WORD}}
